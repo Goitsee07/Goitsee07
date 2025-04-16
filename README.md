@@ -1,66 +1,70 @@
-# Goitseone Ndlovu | Data Analyst & BI Developer
+# ⚡ Goitseone Ndlovu — Data Analyst | BI Developer
 
-Welcome to my interactive data analytics portfolio website! I specialize in transforming complex data into clear insights using tools such as **Excel**, **Power BI**, **Tableau**, **SQL**, and **Python**. This site was designed to showcase my real-world projects using **South African market data**.
+Hi there! I'm **Goitseone Ndlovu**, a passionate **Data Analyst and BI Developer** from **Pretoria, South Africa**. I love turning raw data into actionable insights using a mix of **Excel, Power BI, Tableau, SQL, and Python**. This portfolio is my way of sharing real-world projects that bring data to life — with a strong focus on **South African markets**.
 
-**Live Portfolio Website:**  
-[https://goitsee07.github.io/Goitsee07/](https://goitsee07.github.io/Goitsee07/)
+[**🌐 View My Live Portfolio Website**](https://goitsee07.github.io/Goitsee07/)  
+[**🔗 LinkedIn**](https://www.linkedin.com/in/goitseendlovu) • 📧 Goitsee07@gmail.com • 📞 073 545 8774
 
 ---
 
-## Featured Projects
+## ✨ Featured Projects
 
 ### 1. **Excel Dashboard: South African Employment Overview**
-**Tools:** Excel, Power Query  
-**Skills:** Data cleaning, PivotTables, Conditional Formatting, Charting  
-**Description:** This dashboard visualizes key employment trends in South Africa. It highlights employment rates, industry participation, and unemployment patterns over time.
+**Tools:** Excel, Power Query | **Focus:** Employment Trends, Industry Analysis  
+**Highlights:**  
+- Cleaned and transformed large datasets  
+- Built dynamic dashboards with slicers, pivot tables & custom charts  
+- Visualized national and provincial employment shifts  
 
-- [View Final Report (PDF)](reports/employment_analysis.pdf)
-- [Download Excel Dashboard](files/employment_dashboard.xlsx)
-
----
-
-### 2. **Power BI Dashboard: SA Retail Sales Analysis**
-**Tools:** Power BI, SQL, Python  
-**Skills:** Data modeling, DAX, Advanced Visuals  
-**Description:** An interactive dashboard that analyzes retail sales data from multiple regions in South Africa, showing sales trends, profits, top products, and customer segments.
-
-- [View Final Report (PDF)](reports/retail_sales_analysis.pdf)
-- [Download Power BI File](files/retail_sales_dashboard.pbix)
+[📄 Download Report (PDF)](reports/employment_analysis.pdf)  
+[📊 Download Excel File](files/employment_dashboard.xlsx)
 
 ---
 
-### 3. **Tableau Dashboard: COVID-19 Impact on SA Health System**
-**Tools:** Tableau, Python  
-**Skills:** Data visualization, Dashboard storytelling  
-**Description:** This project investigates how COVID-19 affected South Africa’s health infrastructure using public health data and hospital capacity reports.
+### 2. **Power BI: Retail Sales Analysis Across South Africa**
+**Tools:** Power BI, SQL, Python | **Focus:** Sales Performance, Profitability, Customer Segments  
+**Highlights:**  
+- Modeled data and applied DAX for metrics  
+- Created region-based filters, heatmaps, and trend lines  
+- Used SQL & Python for data cleaning and automation  
 
-- [View Final Report (PDF)](reports/covid19_health_impact.pdf)
-- [Download Tableau File](files/health_dashboard.twbx)
-
----
-
-## About Me
-
-I’m **Goitseone Ndlovu**, a passionate data analyst and BI developer based in Pretoria, South Africa. I thrive on solving real-world problems through data — using storytelling, dashboards, and technical analysis to support decision-making. My work integrates Python for data processing, SQL for querying, and a strong visual design sense across BI tools.
-
-Let’s connect:
-- **Phone:** 073 545 8774  
-- **Email:** Goitsee07@gmail.com  
-- **LinkedIn:** [linkedin.com/in/goitseendlovu](https://www.linkedin.com/in/goitseendlovu)
+[📄 Download Report (PDF)](reports/retail_sales_analysis.pdf)  
+[📈 Download Power BI File](files/retail_sales_dashboard.pbix)
 
 ---
 
-## Repo Info
+### 3. **Tableau: COVID-19 Impact on SA's Health System**
+**Tools:** Tableau, Python | **Focus:** Hospital Capacity, Pandemic Impact  
+**Highlights:**  
+- Analyzed public health data from official sources  
+- Built a storytelling dashboard with interactive elements  
+- Visualized ICU capacity, infection rates & funding allocation  
 
-This repository powers my GitHub Pages portfolio and contains:
+[📄 Download Report (PDF)](reports/covid19_health_impact.pdf)  
+[📌 Download Tableau File](files/health_dashboard.twbx)
 
-- `index.html` – Main website file  
-- `reports/` – PDF reports for each project  
-- `files/` – Excel, Power BI, and Tableau project files  
-- `images/` – Profile picture and visuals  
-- `README.md` – This file!
+---
 
-To contribute, view the code, or clone this repo:
+## 💬 About This Portfolio
+
+This site is built with **HTML, CSS, GitHub Pages**, and a dash of creativity. Every project you see is powered by real datasets, cleaned and explored using **Python and SQL**, and presented through the BI tools I specialize in.
+
+---
+
+## 📁 Repo Structure
+📦 Goitsee07/ ├── index.html                 ← Main portfolio website ├── images/                    ← Profile picture, graphs, etc. ├── reports/                   ← PDF reports for each project ├── files/                     ← Excel, Power BI, Tableau files └── README.md                  ← You’re here!
+
+---
+
+## 🚀 How to Clone or Contribute
 
 ```bash
 git clone https://github.com/Goitsee07/Goitsee07.git
+
+Feel free to explore the code, connect with me, or reach out for collaborations!
+
+
+---
+
+> “Without data, you're just another person with an opinion.”
+— W. Edwards Deming
