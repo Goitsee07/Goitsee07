@@ -1,70 +1,127 @@
-# ⚡ Goitseone Ndlovu — Data Analyst | BI Developer
+<!-- HEADER SECTION -->
+<h1 align="center">⚡ Goitseone Ndlovu — Data Analyst | BI Developer</h1>
 
-Hi there! I'm **Goitseone Ndlovu**, a passionate **Data Analyst and BI Developer** from **Pretoria, South Africa**. I love turning raw data into actionable insights using a mix of **Excel, Power BI, Tableau, SQL, and Python**. This portfolio is my way of sharing real-world projects that bring data to life — with a strong focus on **South African markets**.
+<p align="center">
+  <b>Pretoria, South Africa</b> <br>
+  Passionate about turning raw data into actionable insights using <b>Excel, Power BI, Tableau, SQL & Python</b>.
+</p>
 
-[**🌐 View My Live Portfolio Website**](https://goitsee07.github.io/Goitsee07/)  
-[**🔗 LinkedIn**](https://www.linkedin.com/in/goitseendlovu) • 📧 Goitsee07@gmail.com • 📞 073 545 8774
-
----
-
-## ✨ Featured Projects
-
-### 1. **Excel Dashboard: South African Employment Overview**
-**Tools:** Excel, Power Query | **Focus:** Employment Trends, Industry Analysis  
-**Highlights:**  
-- Cleaned and transformed large datasets  
-- Built dynamic dashboards with slicers, pivot tables & custom charts  
-- Visualized national and provincial employment shifts  
-
-[📄 Download Report (PDF)](reports/employment_analysis.pdf)  
-[📊 Download Excel File](files/employment_dashboard.xlsx)
+<p align="center">
+  <a href="https://goitsee07.github.io/Goitsee07/"><img src="https://img.shields.io/badge/Portfolio-View_Live-blue?style=for-the-badge&logo=githubpages"></a>
+  <a href="https://www.linkedin.com/in/goitseendlovu"><img src="https://img.shields.io/badge/LinkedIn-Goitseone-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:goitsee07@gmail.com"><img src="https://img.shields.io/badge/Email-Goitsee07@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
-### 2. **Power BI: Retail Sales Analysis Across South Africa**
-**Tools:** Power BI, SQL, Python | **Focus:** Sales Performance, Profitability, Customer Segments  
-**Highlights:**  
-- Modeled data and applied DAX for metrics  
-- Created region-based filters, heatmaps, and trend lines  
-- Used SQL & Python for data cleaning and automation  
+### 🔥 About Me
 
-[📄 Download Report (PDF)](reports/retail_sales_analysis.pdf)  
-[📈 Download Power BI File](files/retail_sales_dashboard.pbix)
+```yaml
+Name: Goitseone Ndlovu
+Role: Data Analyst & BI Developer
+Focus: South African Market Data | Dashboarding | Reporting
+Tools: Excel · Power BI · Tableau · Python · SQL
 
----
+I'm a data professional who thrives on exploring complex datasets and turning them into compelling stories and dashboards that drive action. Every chart you see reflects a real-world insight about South African industries, retail, and healthcare.
 
-### 3. **Tableau: COVID-19 Impact on SA's Health System**
-**Tools:** Tableau, Python | **Focus:** Hospital Capacity, Pandemic Impact  
-**Highlights:**  
-- Analyzed public health data from official sources  
-- Built a storytelling dashboard with interactive elements  
-- Visualized ICU capacity, infection rates & funding allocation  
-
-[📄 Download Report (PDF)](reports/covid19_health_impact.pdf)  
-[📌 Download Tableau File](files/health_dashboard.twbx)
 
 ---
 
-## 💬 About This Portfolio
+🧰 Tech & Tools
 
-This site is built with **HTML, CSS, GitHub Pages**, and a dash of creativity. Every project you see is powered by real datasets, cleaned and explored using **Python and SQL**, and presented through the BI tools I specialize in.
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning%20&%20Visualization-green?logo=microsoft-excel&style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-DAX%2C%20Reports-yellow?logo=powerbi&style=flat-square" />
+  <img src="https://img.shields.io/badge/Tableau-Dashboards%20&%20Insights-blue?logo=tableau&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-Pandas%2C%20Matplotlib-blue?logo=python&style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-blue?logo=postgresql&style=flat-square" />
+</p>
+---
+
+✨ Featured Projects
+
+📊 Excel Dashboard: South African Employment Overview
+
+> Cleaned & transformed employment datasets and visualized national trends.
+
+
+
+Tools: Excel, Power Query
+
+Features: Slicers, Pivot Charts, Dynamic KPIs
+📄 Report (PDF) | 📥 Excel File
+
+
 
 ---
 
-## 📁 Repo Structure
-📦 Goitsee07/ ├── index.html                 ← Main portfolio website ├── images/                    ← Profile picture, graphs, etc. ├── reports/                   ← PDF reports for each project ├── files/                     ← Excel, Power BI, Tableau files └── README.md                  ← You’re here!
+📈 Power BI: Retail Sales Analysis Across South Africa
+
+> Built a dynamic sales dashboard using SQL + Python pipelines with custom visuals.
+
+
+
+Tools: Power BI, SQL, Python
+
+Features: DAX, Filters, Region Heatmaps
+📄 Report (PDF) | 📥 PBIX File
+
+
 
 ---
 
-## 🚀 How to Clone or Contribute
+📌 Tableau: COVID-19 Impact on SA’s Health System
 
-```bash
+> Visual storytelling dashboard on hospital stress, ICU capacity, and policy funding.
+
+
+
+Tools: Tableau, Python
+
+Features: Public Health Datasets, Interactive Maps
+📄 Report (PDF) | 📥 Tableau File
+
+
+
+---
+
+📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Goitsee07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goitsee07&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitsee07&layout=compact&theme=tokyonight" />
+</p>
+---
+
+🗂️ Repo Structure
+
+Goitsee07/
+├── index.html              ← Main portfolio site
+├── images/                 ← Graphs, profile pic
+├── reports/                ← PDF reports for projects
+├── files/                  ← Excel, Power BI, Tableau dashboards
+└── README.md               ← You're here!
+
+
+---
+
+🤝 Let's Collaborate!
+
 git clone https://github.com/Goitsee07/Goitsee07.git
 
-Feel free to explore the code, connect with me, or reach out for collaborations!
+I'm open to freelance work, internships, and collaborations in data analytics, visualization, and BI development.
 
 
 ---
 
 > “Without data, you're just another person with an opinion.”
 — W. Edwards Deming
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Goitsee07&label=Profile+Views" alt="Profile views" />
+</p>
+```
+---
