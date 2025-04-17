@@ -1,125 +1,119 @@
-!-- HEADER BANNER -->
+!-- Profile Header -->
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" alt="banner" width="100%" />
+  <img src="images/profile.jpg" width="150" style="border-radius: 50%;" alt="Goitseone Ndlovu"/>
 </p>
 
-<h1 align="center">Hi, I'm Goitseone Ndlovu — <i>Data Analyst & BI Developer</i> from South Africa</h1>
+<h1 align="center">⚡ Goitseone Ndlovu — Data Analyst | BI Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=435&lines=Data+Analyst+%7C+BI+Developer;Turning+Raw+Data+into+Insights;Passionate+about+South+African+Markets;Power+BI+%7C+Python+%7C+SQL+%7C+Excel" />
+  Passionate about turning raw data into actionable insights.  
+  Skilled in Excel, Power BI, Tableau, SQL, and Python — focused on the South African market.
+</p>
+
+<p align="center">
+  <a href="https://goitsee07.github.io/Goitsee07/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=githubpages" />
+  </a>
+  <a href="https://www.linkedin.com/in/goitseendlovu">
+    <img src="https://img.shields.io/badge/LinkedIn-Goitseone-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:goitsee07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Goitsee07@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-### 🌍 Connect With Me
+## ✨ Featured Projects
+
+### 📊 Excel Dashboard: South African Employment
 
 <p align="center">
-  <a href="https://goitsee07.github.io/Goitsee07/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=githubpages"></a>
-  <a href="https://www.linkedin.com/in/goitseendlovu"><img src="https://img.shields.io/badge/LinkedIn-Goitseone-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:goitsee07@gmail.com"><img src="https://img.shields.io/badge/Email-Goitsee07@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="480" />
 </p>
 
----
+**Tools:** Excel, Power Query  
+**Focus:** Employment Trends, Industry Analysis  
 
-### 🧠 About Me
+**Highlights:**
+- Cleaned and transformed large datasets  
+- Built dynamic dashboards with slicers & pivot charts  
+- Visualized employment shifts nationally & provincially  
 
-```yaml
-Name: Goitseone Ndlovu
-Title: Data Analyst | BI Developer
-Location: Pretoria, South Africa
-Passion: Dashboards · Data Cleaning · Storytelling with Data
-Tools: Excel · Power BI · Tableau · SQL · Python
-
-> I specialize in interactive dashboards, real-world insights, and South African market analysis using modern BI tools. Let's explore some highlights from my portfolio:
-
-
-
+[📄 Download Report (PDF)](reports/employment_analysis.pdf)  
+[📊 Download Excel File](files/employment_dashboard.xlsx)
 
 ---
 
-🚀 Featured Projects (with Visuals)
-
-📊 South African Employment Dashboard (Excel)
-
-<p>
-  <img src="images/employment_dashboard.png" width="600"/>
-</p>Built using Power Query and pivot visuals
-
-Province-level insights with dynamic slicers
-
-📥 Excel File | 📄 Report
-
-
-
----
-
-📈 Retail Sales Analysis (Power BI)
-
-<p>
-  <img src="images/powerbi_dashboard.png" width="600"/>
-</p>Created dynamic KPIs, sales heatmaps, and regional analysis
-
-Used SQL + Python for cleaning and loading
-
-📥 PBIX File | 📄 Report
-
-
-
----
-
-🏥 COVID-19 Health Impact in SA (Tableau)
-
-<p>
-  <img src="images/tableau_dashboard.png" width="600"/>
-</p>Visual storytelling using public health data
-
-ICU beds, infections, funding over time
-
-📥 Tableau File | 📄 Report
-
-
-
----
-
-🛠️ Tech Stack
+### 📈 Power BI: Retail Sales Analysis Across South Africa
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning-green?logo=microsoft-excel&style=flat-square" />
-  <img src="https://img.shields.io/badge/Power%20BI-Reports-yellow?logo=powerbi&style=flat-square" />
-  <img src="https://img.shields.io/badge/Tableau-Storytelling-blue?logo=tableau&style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-Analysis-blue?logo=python&style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-Queries-blue?logo=postgresql&style=flat-square" />
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="480" />
 </p>
+
+**Tools:** Power BI, SQL, Python  
+**Focus:** Sales Performance, Profitability, Customer Segments  
+
+**Highlights:**
+- Modeled data and applied DAX for metrics  
+- Created regional filters, heatmaps, trend lines  
+- Used SQL & Python for cleaning and automation  
+
+[📄 Download Report (PDF)](reports/retail_sales_analysis.pdf)  
+[📈 Download PBIX File](files/retail_sales_dashboard.pbix)
+
 ---
 
-📊 GitHub Stats
+### 🏥 Tableau: COVID-19 Impact on SA's Health System
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Goitsee07&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goitsee07&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Goitsee07&layout=compact&theme=tokyonight" />
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="480" />
 </p>
+
+**Tools:** Tableau, Python  
+**Focus:** Hospital Capacity, Pandemic Impact  
+
+**Highlights:**
+- Analyzed public health data from official sources  
+- Built storytelling dashboards with interactive filters  
+- Visualized ICU capacity, infection rates, funding  
+
+[📄 Download Report (PDF)](reports/covid19_health_impact.pdf)  
+[📌 Download TWBX File](files/health_dashboard.twbx)
+
 ---
 
-🧭 Repo Overview
+## 💬 About This Portfolio
 
+This site is built using **HTML, CSS, GitHub Pages**, and a spark of creativity. Every project reflects real data work, cleaned and visualized with tools like **Python, SQL, Excel, Power BI, and Tableau**.
+
+---
+
+## 📁 Repo Structure
+
+```bash
 Goitsee07/
-├── index.html              ← Portfolio Homepage
-├── images/                 ← Dashboard Visuals (JPG/PNG)
-├── reports/                ← Project PDFs
-├── files/                  ← Excel / PBIX / TWBX Files
+├── index.html              ← Main portfolio page
+├── images/                 ← Profile pic & visuals
+├── reports/                ← PDF reports
+├── files/                  ← Excel, PBIX, TWBX files
 └── README.md               ← You’re here!
 
 
 ---
 
-📬 Contact Me
+🚀 How to Clone
 
-Email: goitsee07@gmail.com
-Phone: +27 73 545 8774
+git clone https://github.com/Goitsee07/Goitsee07.git
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Goitsee07&label=Profile+Views&color=blue" />
-</p>
-```
+Feel free to explore, star, or connect for collaboration!
+
+
+---
+
+> “Without data, you're just another person with an opinion.”
+— W. Edwards Deming
+
+
+
 ---
