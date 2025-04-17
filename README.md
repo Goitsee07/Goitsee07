@@ -1,23 +1,49 @@
-# ⚡ Goitseone Ndlovu — Data Analyst | BI Developer
+<!-- Profile Header -->
+<p align="center">
+  <img src="images/profile.jpg" width="150" style="border-radius: 50%;" alt="Goitseone Ndlovu"/>
+</p>
 
-Hi there! I'm **Goitseone Ndlovu**, a passionate **Data Analyst and BI Developer** from **Pretoria, South Africa**. I turn raw data into business stories using **Excel, Power BI, Tableau, SQL, and Python** — always asking the right questions and building tools to find the answers. My work reflects South African trends, industries, and challenges — because that’s home.
+<h1 align="center">⚡ Goitseone Ndlovu — Data Analyst | BI Developer</h1>
 
-[**🌐 View My Live Portfolio Website**](https://goitsee07.github.io/Goitsee07/)  
-[**🔗 LinkedIn**](https://www.linkedin.com/in/goitseendlovu) • 📧 Goitsee07@gmail.com • 📞 073 545 8774
+<p align="center">
+  Passionate about turning raw data into actionable insights.  
+  Skilled in Excel, Power BI, Tableau, SQL, and Python — focused on the South African market.
+</p>
+
+<p align="center">
+  <a href="https://goitsee07.github.io/Goitsee07/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=githubpages" />
+  </a>
+  <a href="https://www.linkedin.com/in/goitseendlovu">
+    <img src="https://img.shields.io/badge/LinkedIn-Goitseone-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:goitsee07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Goitsee07@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
+
+### 👋 About Me
+
+Hi, I’m Goitseone — a data analyst and BI developer from Pretoria, South Africa. I’m passionate about turning messy, real-world data into clear, insightful stories that drive better decisions. Whether it’s through Excel dashboards, Power BI reports, Tableau visuals, or a clean Python script, I love exploring trends, solving problems, and making data easier to understand. My work is rooted in curiosity, creativity, and a strong focus on South African industries. When I’m not deep in data, you’ll probably find me learning something new or sketching ideas for my next big dashboard.
+
+---
+
+## ⚙️ We Can Code This
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=60&lines=We+can+code+this!;We+can+analyze+this!;We+can+visualize+this!" />
 </p>
 
 ---
+
 ## ✨ Featured Projects
 
 ### 📊 Excel Dashboard: South African Employment
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh2aGdvMG1yaDdzcWJkcmZobTFndDNxcnZ2dDkwY3ZyZDYxODZjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CWgDSpkFp1cyW6Jofz/giphy.gif" width="480" />
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="500"/>
 </p>
 
 **Tools:** Excel, Power Query  
@@ -36,7 +62,7 @@ Hi there! I'm **Goitseone Ndlovu**, a passionate **Data Analyst and BI Developer
 ### 📈 Power BI: Retail Sales Analysis Across South Africa
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDU3d3kxNnZvaG0zYjkwMWJqNXM2czZwcGZtdGpqc3l5dTF6ZXd2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NfzqcPA0LHzMcXdXsL/giphy.gif" width="480" />
+  <img src="https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif" width="500" />
 </p>
 
 **Tools:** Power BI, SQL, Python  
@@ -55,7 +81,7 @@ Hi there! I'm **Goitseone Ndlovu**, a passionate **Data Analyst and BI Developer
 ### 🏥 Tableau: COVID-19 Impact on SA's Health System
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV3dzhrZzd0YW0zazNsczRucGxtamFneTN3dm4xYXYxZnBvdnR3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZCkFYJkxUapIrsTzjl/giphy.gif" width="480" />
+  <img src="https://media.giphy.com/media/3ohs7KViFvh8fju1LO/giphy.gif" width="500" />
 </p>
 
 **Tools:** Tableau, Python  
@@ -69,25 +95,20 @@ Hi there! I'm **Goitseone Ndlovu**, a passionate **Data Analyst and BI Developer
 [📄 Download Report (PDF)](reports/covid19_health_impact.pdf)  
 [📌 Download TWBX File](files/health_dashboard.twbx)
 
+---
+
 ## 💬 About This Portfolio
 
-This site is built with **HTML, CSS, GitHub Pages**, and a bit of midnight energy. All the projects use real South African data, cleaned in **Python/SQL**, and visualized with the tools I use every day — showing not just what I can do, but how I think.
+This site is built using **HTML, CSS, GitHub Pages**, and a spark of creativity. Every project reflects real data work, cleaned and visualized with tools like **Python, SQL, Excel, Power BI, and Tableau**.
 
 ---
 
 ## 📁 Repo Structure
-📦 Goitsee07/  
-├── index.html                 ← Main portfolio website  
-├── images/                    ← Profile picture, GIFs, graphs, etc.  
-├── reports/                   ← PDF reports for each project  
-├── files/                     ← Excel, Power BI, Tableau files  
-└── README.md                  ← You’re here!
-
----
-
-## 🚀 How to Clone or Contribute
 
 ```bash
-git clone https://github.com/Goitsee07/Goitsee07.git
-> “Without data, you're just another person with an opinion.”
-— W. Edwards Deming
+Goitsee07/
+├── index.html              ← Main portfolio page
+├── images/                 ← Profile pic & visuals
+├── reports/                ← PDF reports
+├── files/                  ← Excel, PBIX, TWBX files
+└── README.md               ← You’re here!
