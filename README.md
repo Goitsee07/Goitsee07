@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+!-- Profile Header -->
 <p align="center">
   <img src="images/profile.jpg" width="150" style="border-radius: 50%;" alt="Goitseone Ndlovu"/>
 </p>
@@ -24,26 +24,12 @@
 
 ---
 
-### 👋 About Me
-
-Hi, I’m Goitseone — a data analyst and BI developer from Pretoria, South Africa. I’m passionate about turning messy, real-world data into clear, insightful stories that drive better decisions. Whether it’s through Excel dashboards, Power BI reports, Tableau visuals, or a clean Python script, I love exploring trends, solving problems, and making data easier to understand. My work is rooted in curiosity, creativity, and a strong focus on South African industries. When I’m not deep in data, you’ll probably find me learning something new or sketching ideas for my next big dashboard.
-
----
-
-## ⚙️ We Can Code This
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=60&lines=We+can+code+this!;We+can+analyze+this!;We+can+visualize+this!" />
-</p>
-
----
-
 ## ✨ Featured Projects
 
 ### 📊 Excel Dashboard: South African Employment
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="480" />
 </p>
 
 **Tools:** Excel, Power Query  
@@ -62,7 +48,7 @@ Hi, I’m Goitseone — a data analyst and BI developer from Pretoria, South Afr
 ### 📈 Power BI: Retail Sales Analysis Across South Africa
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="480" />
 </p>
 
 **Tools:** Power BI, SQL, Python  
@@ -81,7 +67,7 @@ Hi, I’m Goitseone — a data analyst and BI developer from Pretoria, South Afr
 ### 🏥 Tableau: COVID-19 Impact on SA's Health System
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs7KViFvh8fju1LO/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="480" />
 </p>
 
 **Tools:** Tableau, Python  
@@ -112,3 +98,19 @@ Goitsee07/
 ├── reports/                ← PDF reports
 ├── files/                  ← Excel, PBIX, TWBX files
 └── README.md               ← You’re here!
+
+
+---
+
+🚀 How to Clone
+
+git clone https://github.com/Goitsee07/Goitsee07.git
+
+Feel free to explore, star, or connect for collaboration!
+
+
+---
+
+> “Without data, you're just another person with an opinion.”
+— W. Edwards Deming
+
