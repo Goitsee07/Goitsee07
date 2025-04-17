@@ -1,36 +1,11 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="images/profile.jpg" width="150" style="border-radius: 50%;" alt="Goitseone Ndlovu"/>
-</p>
+# ⚡ Goitseone Ndlovu — Data Analyst | BI Developer
 
-<h1 align="center">⚡ Goitseone Ndlovu — Data Analyst | BI Developer</h1>
+Hi there! I'm **Goitseone Ndlovu**, a passionate **Data Analyst and BI Developer** from **Pretoria, South Africa**. I love turning raw data into actionable insights using a mix of **Excel, Power BI, Tableau, SQL, and Python**. This portfolio is my way of sharing real-world projects that bring data to life — with a strong focus on **South African markets**.
 
-<p align="center">
-  Passionate about turning raw data into actionable insights.  
-  Skilled in Excel, Power BI, Tableau, SQL, and Python — focused on the South African market.
-</p>
-
-<p align="center">
-  <a href="https://goitsee07.github.io/Goitsee07/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=githubpages" />
-  </a>
-  <a href="https://www.linkedin.com/in/goitseendlovu">
-    <img src="https://img.shields.io/badge/LinkedIn-Goitseone-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:goitsee07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Goitsee07@gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+[**🌐 View My Live Portfolio Website**](https://goitsee07.github.io/Goitsee07/)  
+[**🔗 LinkedIn**](https://www.linkedin.com/in/goitseendlovu) • 📧 Goitsee07@gmail.com • 📞 073 545 8774
 
 ---
-
-### 👋 About Me
-
-Hi, I’m Goitseone — a data analyst and BI developer from Pretoria, South Africa. I’m passionate about turning messy, real-world data into clear, insightful stories that drive better decisions. Whether it’s through Excel dashboards, Power BI reports, Tableau visuals, or a clean Python script, I love exploring trends, solving problems, and making data easier to understand. My work is rooted in curiosity, creativity, and a strong focus on South African industries. When I’m not deep in data, you’ll probably find me learning something new or sketching ideas for my next big dashboard.
-
----
-
-## ⚙️ We Can Code This
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=60&lines=We+can+code+this!;We+can+analyze+this!;We+can+visualize+this!" />
@@ -40,78 +15,71 @@ Hi, I’m Goitseone — a data analyst and BI developer from Pretoria, South Afr
 
 ## ✨ Featured Projects
 
-### 📊 Excel Dashboard: South African Employment
+### 1. **Excel Dashboard: South African Employment Overview**
+**Tools:** Excel, Power Query | **Focus:** Employment Trends, Industry Analysis  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="500"/>
-</p>
+![Employment Dashboard](images/excel_employment_dashboard.gif)
 
-**Tools:** Excel, Power Query  
-**Focus:** Employment Trends, Industry Analysis  
-
-**Highlights:**
+**Highlights:**  
 - Cleaned and transformed large datasets  
-- Built dynamic dashboards with slicers & pivot charts  
-- Visualized employment shifts nationally & provincially  
+- Built dynamic dashboards with slicers, pivot tables & custom charts  
+- Visualized national and provincial employment shifts  
 
 [📄 Download Report (PDF)](reports/employment_analysis.pdf)  
 [📊 Download Excel File](files/employment_dashboard.xlsx)
 
 ---
 
-### 📈 Power BI: Retail Sales Analysis Across South Africa
+### 2. **Power BI: Retail Sales Analysis Across South Africa**
+**Tools:** Power BI, SQL, Python | **Focus:** Sales Performance, Profitability, Customer Segments  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif" width="500" />
-</p>
+![Retail Sales Power BI](images/powerbi_retail_sales.gif)
 
-**Tools:** Power BI, SQL, Python  
-**Focus:** Sales Performance, Profitability, Customer Segments  
-
-**Highlights:**
+**Highlights:**  
 - Modeled data and applied DAX for metrics  
-- Created regional filters, heatmaps, trend lines  
-- Used SQL & Python for cleaning and automation  
+- Created region-based filters, heatmaps, and trend lines  
+- Used SQL & Python for data cleaning and automation  
 
 [📄 Download Report (PDF)](reports/retail_sales_analysis.pdf)  
-[📈 Download PBIX File](files/retail_sales_dashboard.pbix)
+[📈 Download Power BI File](files/retail_sales_dashboard.pbix)
 
 ---
 
-### 🏥 Tableau: COVID-19 Impact on SA's Health System
+### 3. **Tableau: COVID-19 Impact on SA's Health System**
+**Tools:** Tableau, Python | **Focus:** Hospital Capacity, Pandemic Impact  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohs7KViFvh8fju1LO/giphy.gif" width="500" />
-</p>
+![COVID Tableau](images/tableau_health_impact.gif)
 
-**Tools:** Tableau, Python  
-**Focus:** Hospital Capacity, Pandemic Impact  
-
-**Highlights:**
+**Highlights:**  
 - Analyzed public health data from official sources  
-- Built storytelling dashboards with interactive filters  
-- Visualized ICU capacity, infection rates, funding  
+- Built a storytelling dashboard with interactive elements  
+- Visualized ICU capacity, infection rates & funding allocation  
 
 [📄 Download Report (PDF)](reports/covid19_health_impact.pdf)  
-[📌 Download TWBX File](files/health_dashboard.twbx)
+[📌 Download Tableau File](files/health_dashboard.twbx)
 
 ---
 
 ## 💬 About This Portfolio
 
-This site is built using **HTML, CSS, GitHub Pages**, and a spark of creativity. Every project reflects real data work, cleaned and visualized with tools like **Python, SQL, Excel, Power BI, and Tableau**.
+This site is built with **HTML, CSS, GitHub Pages**, and a dash of creativity. Every project you see is powered by real datasets, cleaned and explored using **Python and SQL**, and presented through the BI tools I specialize in.
 
 ---
 
 ## 📁 Repo Structure
+📦 Goitsee07/  
+├── index.html                 ← Main portfolio website  
+├── images/                    ← Profile picture, graphs, etc.  
+├── reports/                   ← PDF reports for each project  
+├── files/                     ← Excel, Power BI, Tableau files  
+└── README.md                  ← You’re here!
+
+---
+
+## 🚀 How to Clone or Contribute
 
 ```bash
-Goitsee07/
-├── index.html              ← Main portfolio page
-├── images/                 ← Profile pic & visuals
-├── reports/                ← PDF reports
-├── files/                  ← Excel, PBIX, TWBX files
-└── README.md               ← You’re here!
+git clone https://github.com/Goitsee07/Goitsee07.git
 
 > “Without data, you're just another person with an opinion.”
 — W. Edwards Deming
