@@ -24,6 +24,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=60&lines=We+can+code+this!;We+can+analyze+this!;We+can+visualize+this!" />
+</p>
+
 ## ✨ Featured Projects
 
 ### 📊 Excel Dashboard: South African Employment
