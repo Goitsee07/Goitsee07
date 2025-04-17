@@ -12,59 +12,62 @@ Hi there! I'm **Goitseone Ndlovu**, a passionate **Data Analyst and BI Developer
 </p>
 
 ---
-
 ## ✨ Featured Projects
 
-### 1. **Excel Dashboard: South African Employment Overview**
-**Tools:** Excel, Power Query | **Focus:** Employment Trends, Industry Analysis  
+### 📊 Excel Dashboard: South African Employment
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh2aGdvMG1yaDdzcWJkcmZobTFndDNxcnZ2dDkwY3ZyZDYxODZjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CWgDSpkFp1cyW6Jofz/giphy.gif" width="80%" alt="Excel Dashboard Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh2aGdvMG1yaDdzcWJkcmZobTFndDNxcnZ2dDkwY3ZyZDYxODZjeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CWgDSpkFp1cyW6Jofz/giphy.gif" width="480" />
 </p>
 
-**Highlights:**  
+**Tools:** Excel, Power Query  
+**Focus:** Employment Trends, Industry Analysis  
+
+**Highlights:**
 - Cleaned and transformed large datasets  
-- Built dynamic dashboards with slicers, pivot tables & custom charts  
-- Visualized national and provincial employment shifts  
+- Built dynamic dashboards with slicers & pivot charts  
+- Visualized employment shifts nationally & provincially  
 
 [📄 Download Report (PDF)](reports/employment_analysis.pdf)  
 [📊 Download Excel File](files/employment_dashboard.xlsx)
 
 ---
 
-### 2. **Power BI: Retail Sales Analysis Across South Africa**
-**Tools:** Power BI, SQL, Python | **Focus:** Sales Performance, Profitability, Customer Segments  
+### 📈 Power BI: Retail Sales Analysis Across South Africa
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDU3d3kxNnZvaG0zYjkwMWJqNXM2czZwcGZtdGpqc3l5dTF6ZXd2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NfzqcPA0LHzMcXdXsL/giphy.gif" width="80%" alt="Power BI Animated Dashboard" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDU3d3kxNnZvaG0zYjkwMWJqNXM2czZwcGZtdGpqc3l5dTF6ZXd2byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NfzqcPA0LHzMcXdXsL/giphy.gif" width="480" />
 </p>
 
-**Highlights:**  
-- Modeled data and applied DAX for custom KPIs  
-- Region-based filtering, dynamic visuals, and performance metrics  
-- Used SQL & Python for data preprocessing and automation  
+**Tools:** Power BI, SQL, Python  
+**Focus:** Sales Performance, Profitability, Customer Segments  
+
+**Highlights:**
+- Modeled data and applied DAX for metrics  
+- Created regional filters, heatmaps, trend lines  
+- Used SQL & Python for cleaning and automation  
 
 [📄 Download Report (PDF)](reports/retail_sales_analysis.pdf)  
-[📈 Download Power BI File](files/retail_sales_dashboard.pbix)
+[📈 Download PBIX File](files/retail_sales_dashboard.pbix)
 
 ---
 
-### 3. **Tableau: COVID-19 Impact on SA's Health System**
-**Tools:** Tableau, Python | **Focus:** Hospital Capacity, Pandemic Response  
+### 🏥 Tableau: COVID-19 Impact on SA's Health System
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV3dzhrZzd0YW0zazNsczRucGxtamFneTN3dm4xYXYxZnBvdnR3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZCkFYJkxUapIrsTzjl/giphy.gif" width="80%" alt="Tableau COVID Analysis Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV3dzhrZzd0YW0zazNsczRucGxtamFneTN3dm4xYXYxZnBvdnR3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZCkFYJkxUapIrsTzjl/giphy.gif" width="480" />
 </p>
 
-**Highlights:**  
-- Pulled and cleaned health system data across provinces  
-- Designed dashboard storylines for ICU capacity, infection rates, and spending  
-- Used Python for trend modeling and forecasting visuals  
+**Tools:** Tableau, Python  
+**Focus:** Hospital Capacity, Pandemic Impact  
+
+**Highlights:**
+- Analyzed public health data from official sources  
+- Built storytelling dashboards with interactive filters  
+- Visualized ICU capacity, infection rates, funding  
 
 [📄 Download Report (PDF)](reports/covid19_health_impact.pdf)  
-[📌 Download Tableau File](files/health_dashboard.twbx)
-
----
+[📌 Download TWBX File](files/health_dashboard.twbx)
 
 ## 💬 About This Portfolio
 
