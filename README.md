@@ -45,7 +45,7 @@
 - Built dynamic dashboards with slicers & pivot charts  
 - Visualized employment shifts nationally & provincially  
 
-[📄 Download Report (PDF)](Excel_Employnent_Report.pdf)  
+[📄 Download Report (PDF)](Excel_Employment_Report.pdf)  
 [📊 Download Excel File](Excel_Employment_Analysis.xlsx)
 
 ---
