@@ -45,8 +45,8 @@
 - Built dynamic dashboards with slicers & pivot charts  
 - Visualized employment shifts nationally & provincially  
 
-[📄 Download Report (PDF)](employment_analysis.pdf)  
-[📊 Download Excel File](employment_dashboard.xlsx)
+[📄 Download Report (PDF)](Excel_Employnent_Report.pdf)  
+[📊 Download Excel File](Excel_Employment_Analysis.xlsx)
 
 ---
 
@@ -64,8 +64,8 @@
 - Created regional filters, heatmaps, trend lines  
 - Used SQL & Python for cleaning and automation  
 
-[📄 Download Report (PDF)](retail_sales_analysis.pdf)  
-[📈 Download PBIX File](retail_sales_dashboard.pbix)
+[📄 Download Report (PDF)](PowerBI_Retail_Report_Reformatted.pdf)  
+[📈 Download PBIX File](PowerBI_Retail_Sales.pbix)
 
 ---
 
@@ -83,8 +83,8 @@
 - Built storytelling dashboards with interactive filters  
 - Visualized ICU capacity, infection rates, funding  
 
-[📄 Download Report (PDF)](covid19_health_impact.pdf)  
-[📌 Download TWBX File](health_dashboard.twbx)
+[📄 Download Report (PDF)](Tableau_Health_Report.pdf)  
+[📌 Download TWBX/ZIP File](SA_Covid_Health_Tableau_project.zip)
 
 ---
 
@@ -100,15 +100,13 @@ This site is built using **HTML, CSS, GitHub Pages**, and a spark of creativity.
 Goitsee07/
 ├── index.html
 ├── profile.jpg
-├── employment_analysis.pdf
-├── employment_dashboard.xlsx
-├── retail_sales_analysis.pdf
-├── retail_sales_dashboard.pbix
-├── covid19_health_impact.pdf
-├── health_dashboard.twbx
+├── Excel_Employment_Analysis.xlsx
+├── Excel_Employnent_Report.pdf
+├── PowerBI_Retail_Report_Reformatted.pdf
+├── PowerBI_Retail_Sales.pbix
+├── Tableau_Health_Report.pdf
+├── SA_Covid_Health_Tableau_project.zip
 ├── employment.gif
 ├── sales.gif
 ├── health.gif
 └── README.md
-
-git clone https://github.com/Goitsee07/Goitsee07.git
