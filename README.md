@@ -84,7 +84,7 @@
 - Visualized ICU capacity, infection rates, funding  
 
 [📄 Download Report (PDF)](Tableau_Health_Report.pdf)  
-[📌 Download TWBX/ZIP File](SA_Covid_Health_Tableau_project.zip)
+[📌 Download TWBX/ZIP File](SA_Covid_Health_Tableau_Project.zip)
 
 ---
 
