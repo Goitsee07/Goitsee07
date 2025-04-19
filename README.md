@@ -1,7 +1,7 @@
 
 <!-- Profile Header -->
 <p align="center">
-  <img src="images/profile.jpg" width="150" style="border-radius: 50%;" alt="Goitseone Ndlovu"/>
+  <img src="profile.jpg" width="150" style="border-radius: 50%;" alt="Goitseone Ndlovu"/>
 </p>
 
 <h1 align="center">⚡ Goitseone Ndlovu — Data Analyst | BI Developer</h1>
@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=60&lines=We+can+code+this!;We+can+analyze+this!;We+can+visualize+this!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=60&lines=We+can+code+this!;We+can+analyze+this!;We+can+visualize+this!" />
 </p>
 
 ## ✨ Featured Projects
@@ -34,7 +34,7 @@
 ### 📊 Excel Dashboard: South African Employment
 
 <p align="center">
-  <img src="images/excel_employment_dashboard.gif" width="480" />
+  <img src="employment.gif" width="480" />
 </p>
 
 **Tools:** Excel, Power Query  
@@ -45,15 +45,15 @@
 - Built dynamic dashboards with slicers & pivot charts  
 - Visualized employment shifts nationally & provincially  
 
-[📄 Download Report (PDF)](https://goitsee07.github.io/Goitsee07/reports/employment_analysis.pdf)  
-[📊 Download Excel File](https://goitsee07.github.io/Goitsee07/files/employment_dashboard.xlsx)
+[📄 Download Report (PDF)](employment_analysis.pdf)  
+[📊 Download Excel File](employment_dashboard.xlsx)
 
 ---
 
 ### 📈 Power BI: Retail Sales Analysis Across South Africa
 
 <p align="center">
-  <img src="images/powerbi_sales_dashboard.gif" width="480" />
+  <img src="sales.gif" width="480" />
 </p>
 
 **Tools:** Power BI, SQL, Python  
@@ -64,15 +64,15 @@
 - Created regional filters, heatmaps, trend lines  
 - Used SQL & Python for cleaning and automation  
 
-[📄 Download Report (PDF)](https://goitsee07.github.io/Goitsee07/reports/retail_sales_analysis.pdf)  
-[📈 Download PBIX File](https://goitsee07.github.io/Goitsee07/files/retail_sales_dashboard.pbix)
+[📄 Download Report (PDF)](retail_sales_analysis.pdf)  
+[📈 Download PBIX File](retail_sales_dashboard.pbix)
 
 ---
 
 ### 🏥 Tableau: COVID-19 Impact on SA's Health System
 
 <p align="center">
-  <img src="images/tableau_health_dashboard.gif" width="480" />
+  <img src="health.gif" width="480" />
 </p>
 
 **Tools:** Tableau, Python  
@@ -83,8 +83,8 @@
 - Built storytelling dashboards with interactive filters  
 - Visualized ICU capacity, infection rates, funding  
 
-[📄 Download Report (PDF)](https://goitsee07.github.io/Goitsee07/reports/covid19_health_impact.pdf)  
-[📌 Download TWBX File](https://goitsee07.github.io/Goitsee07/files/health_dashboard.twbx)
+[📄 Download Report (PDF)](covid19_health_impact.pdf)  
+[📌 Download TWBX File](health_dashboard.twbx)
 
 ---
 
@@ -98,8 +98,17 @@ This site is built using **HTML, CSS, GitHub Pages**, and a spark of creativity.
 
 ```bash
 Goitsee07/
-├── index.html              ← Main portfolio page
-├── images/                 ← Profile pic & visuals
-├── reports/                ← PDF reports
-├── files/                  ← Excel, PBIX, TWBX files
-└── README.md               ← You’re here!
+├── index.html
+├── profile.jpg
+├── employment_analysis.pdf
+├── employment_dashboard.xlsx
+├── retail_sales_analysis.pdf
+├── retail_sales_dashboard.pbix
+├── covid19_health_impact.pdf
+├── health_dashboard.twbx
+├── employment.gif
+├── sales.gif
+├── health.gif
+└── README.md
+
+git clone https://github.com/Goitsee07/Goitsee07.git
