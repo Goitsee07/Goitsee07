@@ -105,8 +105,5 @@ Goitsee07/
 ├── PowerBI_Retail_Report_Reformatted.pdf
 ├── PowerBI_Retail_Sales.pbix
 ├── Tableau_Health_Report.pdf
-├── SA_Covid_Health_Tableau_project.zip
-├── employment.gif
-├── sales.gif
-├── health.gif
+├── SA_Covid_Health_Tableau_project.zi
 └── README.md
