@@ -92,18 +92,3 @@
 
 This site is built using **HTML, CSS, GitHub Pages**, and a spark of creativity. Every project reflects real data work, cleaned and visualized with tools like **Python, SQL, Excel, Power BI, and Tableau**.
 
----
-
-## 📁 Repo Structure
-
-```bash
-Goitsee07/
-├── index.html
-├── profile.jpg
-├── Excel_Employment_Analysis.xlsx
-├── Excel_Employnent_Report.pdf
-├── PowerBI_Retail_Report_Reformatted.pdf
-├── PowerBI_Retail_Sales.pbix
-├── Tableau_Health_Report.pdf
-├── SA_Covid_Health_Tableau_project.zi
-└── README.md
